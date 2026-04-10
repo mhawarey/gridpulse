@@ -62,6 +62,15 @@ src/
 - [ ] Phase 3: NASA FIRMS, USGS, Cloudflare Radar overlays
 - [ ] Phase 3: RSS news feed aggregation
 
+## Author
+
+**Dr. Mosab Hawarey**
+PhD, Geodetic & Photogrammetric Engineering (ITU) | MSc, Geomatics (Purdue) | MBA (Wales) | BSc, MSc (METU)
+
+- GitHub: https://github.com/mhawarey
+- Personal: https://hawarey.org/mosab
+- ORCID: https://orcid.org/0000-0001-7846-951X
+
 ## License
 
 MIT
