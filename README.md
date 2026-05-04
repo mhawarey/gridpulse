@@ -1,5 +1,7 @@
 # ⚡ GridPulse
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 **Real-time US Energy Grid Intelligence Dashboard**
 
 Live demand, generation mix, interchange flows, and grid stress scoring powered by the EIA API.
@@ -65,6 +67,7 @@ src/
 ## Author
 
 **Dr. Mosab Hawarey**
+>
 PhD, Geodetic & Photogrammetric Engineering (ITU) | MSc, Geomatics (Purdue) | MBA (Wales) | BSc, MSc (METU)
 
 - GitHub: https://github.com/mhawarey
@@ -73,4 +76,4 @@ PhD, Geodetic & Photogrammetric Engineering (ITU) | MSc, Geomatics (Purdue) | MB
 
 ## License
 
-MIT
+MIT License
