@@ -2,6 +2,8 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+LIVE at https://gridpulse-mhawarey.vercel.app/
+
 **Real-time US Energy Grid Intelligence Dashboard**
 
 Live demand, generation mix, interchange flows, and grid stress scoring powered by the EIA API.
