@@ -58,7 +58,7 @@ src/
   App.tsx             — Main dashboard layout
 ```
 
-## Roadmap
+## Roadmap (maybe...)
 
 - [ ] Phase 2: ENTSO-E (Europe), UK Carbon Intensity API
 - [ ] Phase 2: Groq LLM threat classification
